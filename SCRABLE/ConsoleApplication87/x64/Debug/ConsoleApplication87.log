@@ -1,0 +1,6 @@
+﻿  ConsoleApplication87.cpp
+c:\users\гріша\source\repos\scrable\consoleapplication87\lib.h(416): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\гріша\source\repos\scrable\consoleapplication87\lib.h(796): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\гріша\source\repos\scrable\consoleapplication87\lib.h(832): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\гріша\source\repos\scrable\consoleapplication87\consoleapplication87.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication87.vcxproj -> C:\Users\Гріша\source\repos\SCRABLE\x64\Debug\ConsoleApplication87.exe

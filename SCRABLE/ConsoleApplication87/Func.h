@@ -1,0 +1,20 @@
+#pragma once
+int Connect(Dictionary **words);
+void ClearAll();
+void PrintBoard();
+void PrintScore();
+void PrintPlayer(int num);
+void gotoxy(int x, int y);
+void Active(int x, int y);
+void inActive(int x, int y);
+void ActiveWord(int x, int y, int num);
+void inActiveWord(int x, int y, int num);
+int Check(int x, int y);
+void SetColor(int x, int y);
+int ScoreWord();
+int Score(char latter);
+int Test(char *word, int left = 0, int right = n);
+void Game();
+void StartGame();
+void NewWord();
+void meaning_of_word();
